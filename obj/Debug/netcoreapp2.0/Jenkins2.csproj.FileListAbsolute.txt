@@ -1,0 +1,11 @@
+C:\Users\erick.morales\Documents\Weeklys\Jenkins2\dotnet_demo\bin\Debug\netcoreapp2.0\Jenkins2.deps.json
+C:\Users\erick.morales\Documents\Weeklys\Jenkins2\dotnet_demo\bin\Debug\netcoreapp2.0\Jenkins2.runtimeconfig.json
+C:\Users\erick.morales\Documents\Weeklys\Jenkins2\dotnet_demo\bin\Debug\netcoreapp2.0\Jenkins2.runtimeconfig.dev.json
+C:\Users\erick.morales\Documents\Weeklys\Jenkins2\dotnet_demo\bin\Debug\netcoreapp2.0\Jenkins2.dll
+C:\Users\erick.morales\Documents\Weeklys\Jenkins2\dotnet_demo\bin\Debug\netcoreapp2.0\Jenkins2.pdb
+C:\Users\erick.morales\Documents\Weeklys\Jenkins2\dotnet_demo\obj\Debug\netcoreapp2.0\Jenkins2.csprojAssemblyReference.cache
+C:\Users\erick.morales\Documents\Weeklys\Jenkins2\dotnet_demo\obj\Debug\netcoreapp2.0\Jenkins2.csproj.CoreCompileInputs.cache
+C:\Users\erick.morales\Documents\Weeklys\Jenkins2\dotnet_demo\obj\Debug\netcoreapp2.0\Jenkins2.AssemblyInfoInputs.cache
+C:\Users\erick.morales\Documents\Weeklys\Jenkins2\dotnet_demo\obj\Debug\netcoreapp2.0\Jenkins2.AssemblyInfo.cs
+C:\Users\erick.morales\Documents\Weeklys\Jenkins2\dotnet_demo\obj\Debug\netcoreapp2.0\Jenkins2.dll
+C:\Users\erick.morales\Documents\Weeklys\Jenkins2\dotnet_demo\obj\Debug\netcoreapp2.0\Jenkins2.pdb
